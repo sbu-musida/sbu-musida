@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Sibusiso Musida
-- 👀 I’m interested in Full Stack Software Development and Digital Marketing
+- 👀 I’m interested in Full Stack Software Development, Data Analytics and Digital Marketing
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me e-mail: sbu.musida@gmail.com cell:+27796652088
 
 # WELCOME TO MY DOMAIN
 
-I'm a Full Stack Software Developer and Digital Marketing Specialist.
+I'm a Full Stack Software Developer, Data Analyst and Digital Marketer.
 
 ## Skills
 
@@ -17,11 +17,17 @@ Provide Web Analytics to Clients.
 
 Build Social Media Campaigns.
 
+Provide System Automation
+
+Big Data and Artificial Intelligence
+
 Create Relational Databases.
 
 Build E-Commerce Stores
 
 Develop Data Science Solutions
+
+IT Support 
 
 ## Tools
 
