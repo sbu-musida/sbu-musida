@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sibusiso Musida
-- 👀 I’m interested in Software Development, Data Analytics, System Administration & IT Support
+- 👀 I’m interested in Software Development & Data Analytics
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me e-mail: sbu.musida@gmail.com cell:+27796652088
 
