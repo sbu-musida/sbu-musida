@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sibusiso Musida
-- 👀 I’m interested in Software Development & Data Engineering
+- 👨‍💻 I’m interested in Software Development & Data Engineering
 - 📫 How to reach me e-mail: sbu.musida@gmail.com cell:+27796652088
 
 # WELCOME TO MY DOMAIN
@@ -24,11 +24,11 @@ IT Support / Technician
 
 ## Languages 
 
-Java/ Python/ COBOL/ Javascript/ PHP/ C++/ SQL/ JCL/ CICS
+Java/ Python/ COBOL/ Javascript/ PHP/ C++/ SQL/ JCL/ CICS/ UML
 
 ## Tools
 
-IBM Z Mainframe/ AWS/ NodeJS/ Linux OS/ Google Cloud Platform/ GitHub/ MS Office 365/ Oracle/ VSCode/ Jupyter Notebook/ React/ MS Power Platform/ DB2/ REST APIs/ WordPress/ Azure Cloud/ Android/ Power Shell
+IBM Z Mainframe/ AWS/ NodeJS/ Linux OS/ Google Cloud Platform/ GitHub/ MS Office 365/ Oracle/ VSCode/ Jupyter Notebook/ React/ MS Power Platform/ DB2/ REST APIs/ WordPress/ Azure Cloud/ Android/ Power Shell/ TSO/ ISPF/ SDSF
 
 ## Company
 [Afterskoolcoders](https://www.afterskoolcoders.com/)
