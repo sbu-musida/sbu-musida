@@ -12,7 +12,7 @@ Mainframe Programming
 
 Develop Web and Mobile Applications
 
-Build Cloud Solutions (AWS / Azure/ Google Cloud)
+Build Cloud Solutions (AWS / Azure Cloud/ Google Cloud Platform)
 
 Provide Data Analytics to Clients.
 
@@ -24,11 +24,11 @@ IT Support / Technician
 
 ## Languages 
 
-Java/ Python/ COBOL/ Javascript/ PHP/ C++/ SQL/ JCL
+Java/ Python/ COBOL/ Javascript/ PHP/ C++/ SQL/ JCL/ CICS
 
 ## Tools
 
-IBM Z/ AWS/ NodeJS/ Linux / Google Cloud/ GitHub / MySQL / Power BI / Oracle / VSCode/ MS 365 / Jupyter Notebook/ DB2/ Azure/ WordPress
+IBM Z Mainframe/ AWS/ NodeJS/ Linux OS/ Google Cloud Platform/ GitHub/ MS Office 365/ Oracle/ VSCode/ Jupyter Notebook/ React/ MS Power Platform/ DB2/ REST APIs/ WordPress/ Azure Cloud/ Android/ Power Shell
 
 ## Company
 [Afterskoolcoders](https://www.afterskoolcoders.com/)
