@@ -10,14 +10,14 @@ I am passionate about application modernization and system optimization, with a 
 
 # WORK EXPERIENCE
 ## Standard Bank Group
-Mainframe Developer <br>
+### Mainframe Developer <br>
 2024-Present
 ## Afterskoolcoders Pty Ltd
-Freelance Web Developer </br>
+### Freelance Web Developer </br>
 2020-2023
 ## Tshwane University of Technology
-IT Support Assistant  </br>
-Student Assistant (Tutor)  </br>
+### IT Support Assistant  </br>
+### Student Assistant (Tutor)  </br>
 2019-2023 
 
 # AWARDS & ARCHIEVEMENTS
