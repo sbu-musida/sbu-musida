@@ -23,7 +23,6 @@ Student Assistant (Tutor)
 # AWARDS & ARCHIEVEMENTS
 <div class="award section second" id="achievements">
 		<div class="container">
-			<h1>Award &amp;<br>Achievements</h1>
 			<ul class="award-list list-flat">
 				<li>January 2025</li>
 				<li><a href="https://www.credly.com/badges/7d24fa04-52aa-47a2-ad17-8b2ae5c010f2/linked_in_profile" target="_blank">Db2 12 for z/OS Basic Database Administration</a></li>
