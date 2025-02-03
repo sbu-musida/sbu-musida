@@ -9,16 +9,16 @@ As a DevOps engineer and architect, I bring expertise in application programming
 I am passionate about application modernization and system optimization, with a proven track record of delivering innovative, high-impact solutions in complex IT landscapes.
 
 # WORK EXPERIENCE
-2024-Present
 ## Standard Bank Group
 Mainframe Developer
-2020-2023
+2024-Present
 ## Afterskoolcoders Pty Ltd
 Freelance Web Developer
-2019-2023
+2020-2023
 ## Tshwane University of Technology
 IT Support Assistant
 Student Assistant (Tutor)
+2019-2023
 
 # AWARDS & ARCHIEVEMENTS
 <div class="award section second" id="achievements">
