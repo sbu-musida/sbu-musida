@@ -13,12 +13,12 @@ I am passionate about application modernization and system optimization, with a 
 Mainframe Developer
 2024-Present
 ## Afterskoolcoders Pty Ltd
-Freelance Web Developer
+Freelance Web Developer </br>
 2020-2023
 ## Tshwane University of Technology
-IT Support Assistant
-Student Assistant (Tutor)
-2019-2023
+IT Support Assistant  </br>
+Student Assistant (Tutor)  </br>
+2019-2023 
 
 # AWARDS & ARCHIEVEMENTS
 <div class="award section second" id="achievements">
