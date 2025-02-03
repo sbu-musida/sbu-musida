@@ -10,7 +10,7 @@ I am passionate about application modernization and system optimization, with a 
 
 # WORK EXPERIENCE
 ## Standard Bank Group
-Mainframe Developer
+Mainframe Developer <br>
 2024-Present
 ## Afterskoolcoders Pty Ltd
 Freelance Web Developer </br>
