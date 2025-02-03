@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sibusiso Musida
 - 👨‍💻 I’m interested in Software Development & Data Engineering
-- 📫 How to reach me e-mail: sbu.musida@gmail.com OR cell:+27796652088
+- 📫 How to reach me e-mail: sbu.musida@gmail.com OR cell:tel:+27796652088
 
 # INTRODUCTION
 I am a seasoned IT professional with extensive experience in application development, debugging, and modernization, specializing in mainframe programming and enterprise-level solutions. My expertise spans multiple domains, including backend development with COBOL, frontend integration with Java, and database management using PL/SQL and DB2. I excel at creating robust, scalable applications that meet business needs and drive results.
