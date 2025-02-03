@@ -8,7 +8,7 @@ With a deep understanding of IBM System Z architecture, I am skilled in leveragi
 As a DevOps engineer and architect, I bring expertise in application programming interfaces (APIs), application modernization with CICS, and the implementation of modern development practices. My knowledge of z/OS security (RACF basics) and Linux system administration allows me to ensure secure and efficient IT environments.
 I am passionate about application modernization and system optimization, with a proven track record of delivering innovative, high-impact solutions in complex IT landscapes.
 
-# WORK EXPERIENCE
+# WORK EXPERIENCES
 ## Standard Bank Group
 ### Mainframe Developer <br>
 2024-Present
