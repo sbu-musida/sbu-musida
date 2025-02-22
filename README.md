@@ -24,6 +24,10 @@ I am passionate about application modernization and system optimization, with a 
 <div class="award section second" id="achievements">
 		<div class="container">
 			<ul class="award-list list-flat">
+				<li>February 2025</li>
+			        <li><a href="https://learn.microsoft.com/api/credentials/share/en-us/MusidaSibusiso/30FB019BCB7321EC?sharingId" target="_blank">Microsoft Certified: Power Platform Fundamentals</a></li>
+			</ul>
+			<ul class="award-list list-flat">
 				<li>January 2025</li>
 				<li><a href="https://www.credly.com/badges/7d24fa04-52aa-47a2-ad17-8b2ae5c010f2/linked_in_profile" target="_blank">Db2 12 for z/OS Basic Database Administration</a></li>
 			</ul>
